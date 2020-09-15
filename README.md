@@ -1,19 +1,33 @@
 # vue-cli
 
-> A Vue.js project
+http://vuejs-deploy-sk.s3-website.eu-west-2.amazonaws.com/
 
-## Build Setup
+A dummy stock trader site built using Vue
 
-``` bash
-# install dependencies
-npm install
+## Screenshots
 
-# serve with hot reload at localhost:8080
-npm run dev
+![stock-trader](https://github.com/SaadK94/stock-trader/blob/master/screenshots/stock-trader.png)
+![stocks](https://github.com/SaadK94/stock-trader/blob/master/screenshots/stocks.png)
+![portfolio](https://github.com/SaadK94/stock-trader/blob/master/screenshots/portfolio.png)
 
-# build for production with minification
-npm run build
+## Installation
+
+This project requires [npm](https://npmjs.com) installed globally.
+
+Clone the repository to a directory of your choosing
+
+```
+$ git clone https://github.com/SaadK94/stock-trader.git
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# stock-trader
+Install the necessary packages
+
+```
+npm install
+```
+
+To start up the app locally
+
+```
+npm run dev
+```
